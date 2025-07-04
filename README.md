@@ -1,6 +1,5 @@
 # Elevate-labs-task-8 -CYBERSECURITY INTERNSHIP
-# WORKING WITH VPN
-# Task 8: VPN Setup and Privacy Protection
+#  Work with VPN
 
 ## Objective
 Understand the role of VPNs in protecting privacy and secure communication by setting up a free VPN service and analyzing its features.
